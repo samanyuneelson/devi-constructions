@@ -13,21 +13,16 @@
       "github": "https://github.com/konstantinmuenster",
       "medium": "https://konstantinmuenster.medium.com",
       "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "mail": "mailto:mail@deviconstructions.com"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Devi Constuctions" },
     "navigation": {
-      "header": [
-        { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
-      ],
+      "header": [],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Resume",
+        "label": "Link",
         "url": "/resume.pdf"
       },
       "footer": [
