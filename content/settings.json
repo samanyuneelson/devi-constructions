@@ -21,9 +21,9 @@
     "navigation": {
       "header": [],
       "ctaButton": {
-        "openNewTab": true,
-        "label": "Link",
-        "url": "/resume.pdf"
+        "openNewTab": false,
+        "label": "",
+        "url": ""
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },

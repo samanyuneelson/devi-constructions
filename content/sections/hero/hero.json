@@ -1,21 +1,24 @@
 {
-  "intro": "Some Tagline",
+  "intro": "Devi Constructions - Crafting Excellence in Construction",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
   },
   "image": {
-    "src": "../../images/waving-hand.png",
-    "alt": "Waving Hand Emoji"
+    "src": "",
+    "alt": ""
   },
-  "title": "Some additional details",
+  "title": "",
   "subtitle": {
-    "prefix": "Anything else if needed",
+    "prefix": "Your Trusted Partner in Building the Future",
     "suffix": "."
   },
-  "description": "",
+  "description": "Welcome to Devi Constructions, where expertise meets innovation to redefine the landscape of construction. With a commitment to quality craftsmanship and client satisfaction, we specialize in turning visions into reality. Explore our portfolio of successful projects and discover why Devi Constructions is the name synonymous with reliability and excellence in the industry.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Mail"],
+    "from": [
+      "LinkedIn",
+      "Mail"
+    ],
     "showIcons": false
   }
 }
